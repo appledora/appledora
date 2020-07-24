@@ -12,7 +12,7 @@ This readme was done for the sake of fun.
 #### Languages
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width=60>  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> 
 #### Framework
-<img src="https://cdn.iconscout.com/icon/free/png-512/laravel-2-1175146.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-256/android-226-848728.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width=60>  <img src="https://coryrylan.com/assets/images/posts/types/react.svg" width=60>
+<img src="https://cdn.iconscout.com/icon/free/png-512/laravel-2-1175146.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-256/android-226-848728.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width=60>  <img src="https://coryrylan.com/assets/images/posts/types/react.svg" width=60>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width=60>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appledora)](https://github.com/anuraghazra/github-readme-stats)
