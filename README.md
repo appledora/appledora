@@ -18,6 +18,6 @@ Skills: Java / Python/ C++ / Laravel
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=appledora&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/appledora)  <br/>
-<br>
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
