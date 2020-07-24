@@ -27,4 +27,7 @@ This readme was done for the sake of fun.
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
