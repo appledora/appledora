@@ -13,9 +13,6 @@ This readme was done for the sake of fun.
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![badge-python](https://img.shields.io/badge/language-python-yellow?style=for-the-badge&logo=python) ![badge-java](https://img.shields.io/badge/language-java-lightgrey?style=for-the-badge&logo=java) <br>
 ![badge-android](https://img.shields.io/badge/framework-android-brightgreen?style=for-the-badge&logo=android) ![badge-react](https://img.shields.io/badge/framework-react-informational?style=for-the-badge&logo=react) ![badge-git](https://img.shields.io/badge/framework-git-orange?style=for-the-badge&logo=git) ![badge-laravel](https://img.shields.io/badge/framework-laravel-red?style=for-the-badge&logo=laravel) ![badge-django](https://img.shields.io/badge/framework-django-green?style=for-the-badge&logo=django)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appledora)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on Bioinformatics and DeepLearning.
 - 🌱 I’m currently learning Model structuring and tuning.
 - 👯 I’m looking to collaborate on Bioinformatics. 
@@ -30,5 +27,4 @@ This readme was done for the sake of fun.
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
