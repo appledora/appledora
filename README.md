@@ -14,7 +14,6 @@ This readme was done for the sake of fun.
 #### Framework
 <img src="https://cdn.iconscout.com/icon/free/png-512/laravel-2-1175146.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-256/android-226-848728.png" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" width=60>  <img src="https://coryrylan.com/assets/images/posts/types/react.svg" width=60>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width=60>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appledora)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Bioinformatics and DeepLearning.
@@ -24,8 +23,7 @@ This readme was done for the sake of fun.
 - 💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
 - ⚡ Fun fact: None 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora)  
-
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) [<img src='https://w7.pngwing.com/pngs/664/998/png-transparent-pie-chart-computer-icons-circle-monochrome-graph-of-a-function-pie.png' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
 
 
 ![Profile views](https://gpvc.arturio.dev/appledora)  <br/>
