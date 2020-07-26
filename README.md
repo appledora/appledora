@@ -28,6 +28,9 @@ This readme was done for the sake of fun.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java    3 hrs 7 mins    ██████████████████████░░░   90.67 % 
+XML     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Other   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+CSV     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 <!--END_SECTION:waka-->
