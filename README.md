@@ -28,10 +28,10 @@ This readme was done for the sake of fun.
 
 <!--START_SECTION:waka-->
 ```text
-Other    6 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   38.81 % 
-XML      4 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Java     3 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Python   2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-CSV      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other    10 hrs 5 mins   ███████████░░░░░░░░░░░░░░   45.65 % 
+XML      4 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Python   3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Java     3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+CSV      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 <!--END_SECTION:waka-->
