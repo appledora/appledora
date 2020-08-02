@@ -18,9 +18,12 @@ This readme was done for the sake of fun.
 🌱 I’m currently learning Model structuring and tuning.
 
 👯 I’m looking to collaborate on Bioinformatics. 
-- 🤔 I’m looking for help with Colab, Kotlin and Django. 
-- 💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
-- ⚡ Fun fact: None 
+
+🤔 I’m looking for help with Colab, Kotlin and Django. 
+
+💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
+
+⚡ Fun fact: None 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) [<img src='https://w7.pngwing.com/pngs/664/998/png-transparent-pie-chart-computer-icons-circle-monochrome-graph-of-a-function-pie.png' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
 
