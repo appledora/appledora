@@ -19,8 +19,6 @@ This readme was done for the sake of fun.
 
 👯 I’m looking to collaborate on Bioinformatics. 
 
-🤔 I’m looking for help with Colab, Kotlin and Django. 
-
 💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
 
 ⚡ Fun fact: None 
