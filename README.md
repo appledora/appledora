@@ -31,8 +31,7 @@ This readme was done for the sake of fun.
 
 <!--START_SECTION:waka-->
 ```text
-Other    4 hrs 26 mins   ███████████████████████▒░   92.77 % 
-Python   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-XML      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other    3 hrs 30 mins   ███████████████████████▓░   94.73 % 
+Python   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 <!--END_SECTION:waka-->
