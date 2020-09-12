@@ -31,8 +31,10 @@ This readme was done for the sake of fun.
 
 <!--START_SECTION:waka-->
 ```text
-Other   12 hrs 3 mins   ██████████████████████░░░   87.89 % 
-Bash    1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Text    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other   13 hrs 51 mins  ████████████████████▓░░░░   82.76 % 
+Bash    2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Text    27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+XML     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Java    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
