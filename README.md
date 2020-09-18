@@ -8,8 +8,7 @@ I am Appledora
   </a>
 </p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&column=3&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 This readme was done for the sake of fun.
 #### My stacks
