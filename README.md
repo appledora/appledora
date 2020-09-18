@@ -2,11 +2,14 @@
 I am Appledora
 #### I write codes, fangirl Malazan characters, Sandman, Scott pilgrim and rant to people about my anxiety. 
 ![I write codes, fangirl Malazan characters and rant to people about my anxiety.](https://www.onlysp.com/wp-content/uploads/2015/05/scott_pilgrim_finest_hour_comic_book_cover_wallpaper_011.jpg)
-<p align="center">
+<!--<p align="center<!--
   <a href="https://github.com/appledora" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=appledora&&show_icons=true&theme=tokyonight" alt="Appledora's Stats" >
   </a>
-</p>
+</p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&column=3&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 This readme was done for the sake of fun.
 #### My stacks
