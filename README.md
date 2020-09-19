@@ -16,7 +16,7 @@ I am Appledora
 
 This readme was done for the sake of fun.
 #### My stacks
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![badge-python](https://img.shields.io/badge/language-python-yellow?style=for-the-badge&logo=python) ![badge-java](https://img.shields.io/badge/language-java-lightgrey?style=for-the-badge&logo=java) <br>
+![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash) ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![badge-python](https://img.shields.io/badge/language-python-yellow?style=for-the-badge&logo=python) ![badge-java](https://img.shields.io/badge/language-java-lightgrey?style=for-the-badge&logo=java) <br>
 ![badge-android](https://img.shields.io/badge/framework-android-brightgreen?style=for-the-badge&logo=android) ![badge-react](https://img.shields.io/badge/framework-react-informational?style=for-the-badge&logo=react) ![badge-git](https://img.shields.io/badge/framework-git-orange?style=for-the-badge&logo=git) ![badge-laravel](https://img.shields.io/badge/framework-laravel-red?style=for-the-badge&logo=laravel) ![badge-django](https://img.shields.io/badge/framework-django-green?style=for-the-badge&logo=django) ![badge-mysql](https://img.shields.io/badge/database-mysql-yellowgreen?style=for-the-badge&logo=mysql) ![badge-firebase](https://img.shields.io/badge/database-firebase-yellow?style=for-the-badge&logo=firebase)
 
 🔭 I’m currently working on Bioinformatics and DeepLearning.
