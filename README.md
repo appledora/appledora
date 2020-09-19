@@ -10,6 +10,10 @@ I am Appledora
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
+  <a target="_blank" href="https://github.com/appledora/" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact" alt="Most Used Language" >
+  </a>
+
 This readme was done for the sake of fun.
 #### My stacks
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B) ![badge-python](https://img.shields.io/badge/language-python-yellow?style=for-the-badge&logo=python) ![badge-java](https://img.shields.io/badge/language-java-lightgrey?style=for-the-badge&logo=java) <br>
