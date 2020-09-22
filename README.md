@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45417a1/248bc87be5b4f51b-38/s640x960/6d4adf9beab1c80c07048b7da5e8dedf874b23b1.gif" width="40" height="40" />
+I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45417a1/248bc87be5b4f51b-38/s640x960/6d4adf9beab1c80c07048b7da5e8dedf874b23b1.gif" width="40" height="50" />
 
 #### I write codes, fangirl Malazan characters, Sandman, Scott pilgrim and rant to people about my anxiety. 
 
