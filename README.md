@@ -1,6 +1,9 @@
 ### Hello there 👋
-I am Appledora
+I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45417a1/248bc87be5b4f51b-38/s640x960/6d4adf9beab1c80c07048b7da5e8dedf874b23b1.gif" width="40" height="40" />
+
 #### I write codes, fangirl Malazan characters, Sandman, Scott pilgrim and rant to people about my anxiety. 
+
+
 ![I write codes, fangirl Malazan characters and rant to people about my anxiety.](https://www.onlysp.com/wp-content/uploads/2015/05/scott_pilgrim_finest_hour_comic_book_cover_wallpaper_011.jpg)
 <!--<p align="center<!--
   <a href="https://github.com/appledora" class="rich-diff-level-one">
@@ -11,7 +14,6 @@ I am Appledora
 [![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
 
-This readme was done for the sake of fun.
 
 #### My stacks
 ![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash)
@@ -53,3 +55,4 @@ Text    35 mins         █░░░░░░░░░░░░░░░░░�
 XML     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
+This readme was done for the sake of fun.
