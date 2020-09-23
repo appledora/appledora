@@ -12,19 +12,19 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 </p> -->
 
 #### My stacks
-![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash)
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
-![badge-python](https://img.shields.io/badge/language-python-yellow?style=for-the-badge&logo=python)
-![badge-java](https://img.shields.io/badge/language-java-lightgrey?style=for-the-badge&logo=java) <br>
+![badge-shell](https://img.shields.io/badge/Language-Shell-ff5555?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=282a36)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-ff5555?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=282a36)
+![badge-python](https://img.shields.io/badge/language-python-ff5555?style=for-the-badge&logo=python&logoColor=white&labelColor=282a36)
+![badge-java](https://img.shields.io/badge/language-java-ff5555?style=for-the-badge&logo=java&logoColor=white&labelColor=282a36) <br>
 
-![badge-android](https://img.shields.io/badge/framework-android-brightgreen?style=for-the-badge&logo=android)
-![badge-react](https://img.shields.io/badge/framework-react-informational?style=for-the-badge&logo=react) 
-![badge-git](https://img.shields.io/badge/framework-git-orange?style=for-the-badge&logo=git) 
-![badge-laravel](https://img.shields.io/badge/framework-laravel-red?style=for-the-badge&logo=laravel) 
-![badge-django](https://img.shields.io/badge/framework-django-green?style=for-the-badge&logo=django) 
+![badge-android](https://img.shields.io/badge/framework-android-ff5555?style=for-the-badge&logo=android&logoColor=white&labelColor=282a36)
+![badge-react](https://img.shields.io/badge/framework-react-ff5555?style=for-the-badge&logo=react&logoColor=white&labelColor=282a36) 
+![badge-git](https://img.shields.io/badge/framework-git-ff5555?style=for-the-badge&logo=git&logoColor=white&labelColor=282a36) 
+![badge-laravel](https://img.shields.io/badge/framework-laravel-ff5555?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282a36) 
+![badge-django](https://img.shields.io/badge/framework-django-ff5555?style=for-the-badge&logo=django&logoColor=white&labelColor=282a36) 
 
-![badge-mysql](https://img.shields.io/badge/database-mysql-yellowgreen?style=for-the-badge&logo=mysql) 
-![badge-firebase](https://img.shields.io/badge/database-firebase-yellow?style=for-the-badge&logo=firebase)
+![badge-mysql](https://img.shields.io/badge/database-mysql-ff5555?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282a36) 
+![badge-firebase](https://img.shields.io/badge/database-firebase-ff5555?style=for-the-badge&logo=firebase&logoColor=white&labelColor=282a36)
 
 🔭 I’m currently working on Bioinformatics and DeepLearning.
 
@@ -52,7 +52,7 @@ XML     20 mins         ▒░░░░░░░░░░░░░░░░░�
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=dracula&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!--- dracula base : #282a36 font : #ff79c6 -->
 <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=282a36&title_color=ff79c6&text_color=fff&count_private=true&langs_count=5" />
 This readme was done for the sake of fun.
 
