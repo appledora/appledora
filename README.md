@@ -48,11 +48,11 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 
 <!--START_SECTION:waka-->
 ```text
-Other   13 hrs 27 mins  ███████████████████░░░░░░   75.57 % 
-Java    1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Bash    1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Text    35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-XML     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other   13 hrs 44 mins  ███████████████████░░░░░░   75.36 % 
+Java    1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Bash    1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Text    45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+XML     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
 This readme was done for the sake of fun.
