@@ -36,7 +36,8 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 
 ⚡ Fun fact: None 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) [<img src='https://w7.pngwing.com/pngs/664/998/png-transparent-pie-chart-computer-icons-circle-monochrome-graph-of-a-function-pie.png' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
+ [<img src='https://cdn.imgbin.com/8/20/9/imgbin-pie-chart-s-white-chart-ZXPs1my5a0xJ4iaaHpb5239qF.jpg' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
 
 
 <!--START_SECTION:waka-->
