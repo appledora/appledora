@@ -49,9 +49,9 @@ XML     20 mins         ▒░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=dracula&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 <!--- dracula base : #282a36 font : #ff79c6 -->
-<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=282a36&title_color=ff5555&text_color=fff&count_private=true&langs_count=5" />
+<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=30475e&title_color=e7dec8&text_color=e7dec8&count_private=true&langs_count=5" />
 This readme was done for the sake of fun.
 
 ![Profile views](https://gpvc.arturio.dev/appledora) 
