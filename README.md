@@ -11,10 +11,6 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
   </a>
 </p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
-
-
 #### My stacks
 ![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash)
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
@@ -43,9 +39,6 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) [<img src='https://w7.pngwing.com/pngs/664/998/png-transparent-pie-chart-computer-icons-circle-monochrome-graph-of-a-function-pie.png' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
 
 
-![Profile views](https://gpvc.arturio.dev/appledora)  <br/>
-
-
 <!--START_SECTION:waka-->
 ```text
 Other   13 hrs 44 mins  ███████████████████░░░░░░   75.36 % 
@@ -55,4 +48,13 @@ Text    45 mins         █░░░░░░░░░░░░░░░░░�
 XML     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=dracula&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=282a36&title_color=ff79c6&text_color=fff&count_private=true&langs_count=5" />
 This readme was done for the sake of fun.
+
+![Profile views](https://gpvc.arturio.dev/appledora) 
+
+
