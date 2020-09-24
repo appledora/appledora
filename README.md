@@ -50,7 +50,7 @@ Text       33 mins         █░░░░░░░░░░░░░░░░�
 <p/>
 <!--- dracula base : #282a36 font : #ff79c6 -->
 <p align="left">
-<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&hide=makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
+<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p>
 <br/>
