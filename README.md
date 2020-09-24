@@ -35,9 +35,6 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 
 
 #### My stats
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
- [<img src='https://image.freepik.com/free-icon/pie-chart-outline_318-10654.jpg' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
-
 
 <!--START_SECTION:waka-->
 ```text
@@ -59,6 +56,8 @@ Text       33 mins         █░░░░░░░░░░░░░░░░�
 <br/>
 This readme was done for the sake of fun.
 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
+ [<img src='https://image.freepik.com/free-icon/pie-chart-outline_318-10654.jpg' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
 ![Profile views](https://gpvc.arturio.dev/appledora) 
 
 
