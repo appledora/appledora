@@ -53,7 +53,7 @@ Text       33 mins         █░░░░░░░░░░░░░░░░�
 <!--- dracula base : #282a36 font : #ff79c6 -->
 <p align="center">
 <img  height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=211e1b&title_color=79740e&text_color=79740e&count_private=true&langs_count=5" />
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=458588&show_icons=true&icon_color=d65d0e&count_private=true" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p>
 <br/>
 This readme was done for the sake of fun.
