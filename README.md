@@ -12,17 +12,17 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 </p> -->
 
 #### My stacks
-![badge-shell](https://img.shields.io/badge/Language-Shell-cbaf87?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=30475e)
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-cbaf87?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=30475e)
-![badge-python](https://img.shields.io/badge/language-python-cbaf87?style=for-the-badge&logo=python&logoColor=white&labelColor=30475e)
-![badge-java](https://img.shields.io/badge/language-java-cbaf87?style=for-the-badge&logo=java&logoColor=white&labelColor=30475e) <br/>
-![badge-android](https://img.shields.io/badge/framework-android-cbaf87?style=for-the-badge&logo=android&logoColor=white&labelColor=30475e)
-![badge-react](https://img.shields.io/badge/framework-react-cbaf87?style=for-the-badge&logo=react&logoColor=white&labelColor=30475e) 
-![badge-git](https://img.shields.io/badge/framework-git-cbaf87?style=for-the-badge&logo=git&logoColor=white&labelColor=30475e) 
-![badge-laravel](https://img.shields.io/badge/framework-laravel-cbaf87?style=for-the-badge&logo=laravel&logoColor=white&labelColor=30475e) 
-![badge-django](https://img.shields.io/badge/framework-django-cbaf87?style=for-the-badge&logo=django&logoColor=white&labelColor=30475e) <br/>
-![badge-mysql](https://img.shields.io/badge/database-mysql-cbaf87?style=for-the-badge&logo=mysql&logoColor=white&labelColor=30475e) 
-![badge-firebase](https://img.shields.io/badge/database-firebase-cbaf87?style=for-the-badge&logo=firebase&logoColor=white&labelColor=30475e)
+![badge-shell](https://img.shields.io/badge/Language-Shell-d65d0e?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=211e1b)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-d65d0e?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=211e1b)
+![badge-python](https://img.shields.io/badge/language-python-d65d0e?style=for-the-badge&logo=python&logoColor=white&labelColor=211e1b)
+![badge-java](https://img.shields.io/badge/language-java-d65d0e?style=for-the-badge&logo=java&logoColor=white&labelColor=211e1b) <br/>
+![badge-android](https://img.shields.io/badge/framework-android-d65d0e?style=for-the-badge&logo=android&logoColor=white&labelColor=211e1b)
+![badge-react](https://img.shields.io/badge/framework-react-d65d0e?style=for-the-badge&logo=react&logoColor=white&labelColor=211e1b) 
+![badge-git](https://img.shields.io/badge/framework-git-d65d0e?style=for-the-badge&logo=git&logoColor=white&labelColor=211e1b) 
+![badge-laravel](https://img.shields.io/badge/framework-laravel-d65d0e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=211e1b) 
+![badge-django](https://img.shields.io/badge/framework-django-d65d0e?style=for-the-badge&logo=django&logoColor=white&labelColor=211e1b) <br/>
+![badge-mysql](https://img.shields.io/badge/database-mysql-d65d0e?style=for-the-badge&logo=mysql&logoColor=white&labelColor=211e1b) 
+![badge-firebase](https://img.shields.io/badge/database-firebase-d65d0e?style=for-the-badge&logo=firebase&logoColor=white&labelColor=211e1b)
 
 🔭 I’m currently working on Bioinformatics and DeepLearning.
 
