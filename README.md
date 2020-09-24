@@ -48,8 +48,8 @@ Text       33 mins         █░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 <!--- dracula base : #282a36 font : #ff79c6 -->
 <p align="center">
 <img  height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&layout=compact&hide=makefile,css&bg_color=211e1b&title_color=e7dec8&text_color=e7dec8&count_private=true&langs_count=5" />
