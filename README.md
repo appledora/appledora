@@ -10,6 +10,15 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
     <img src="https://github-readme-stats.vercel.app/api?username=appledora&&show_icons=true&theme=tokyonight" alt="Appledora's Stats" >
   </a>
 </p> -->
+🔭 I’m currently working on Bioinformatics and DeepLearning.
+
+🌱 I’m currently learning Model structuring and tuning.
+
+👯 I’m looking to collaborate on Bioinformatics. 
+
+💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
+
+⚡ Fun fact: None 
 
 #### My stacks
 ![badge-shell](https://img.shields.io/badge/Language-Shell-fe8019?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=282828)
@@ -24,16 +33,8 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 ![badge-mysql](https://img.shields.io/badge/database-mysql-fe8019?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828) 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-fe8019?style=for-the-badge&logo=firebase&logoColor=white&labelColor=282828)
 
-🔭 I’m currently working on Bioinformatics and DeepLearning.
 
-🌱 I’m currently learning Model structuring and tuning.
-
-👯 I’m looking to collaborate on Bioinformatics. 
-
-💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
-
-⚡ Fun fact: None 
-
+#### My stats
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
  [<img src='https://image.freepik.com/free-icon/pie-chart-outline_318-10654.jpg' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
 
