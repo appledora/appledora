@@ -38,11 +38,11 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 
 <!--START_SECTION:waka-->
 ```text
-Other      12 hrs 44 mins  █████████████████▓░░░░░░░   70.62 % 
-Java       1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Bash       1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Markdown   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Groovy     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Other    13 hrs 48 mins  ██████████████▓░░░░░░░░░░   58.72 % 
+Java     4 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Groovy   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+XML      1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Bash     1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 <!--END_SECTION:waka-->
 <p align = "center">
