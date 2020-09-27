@@ -21,17 +21,17 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 ⚡ Fun fact: None 
 
 #### My stacks
-![badge-shell](https://img.shields.io/badge/Language-Shell-fe8019?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=282828)
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-fe8019?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=282828)
-![badge-python](https://img.shields.io/badge/language-python-fe8019?style=for-the-badge&logo=python&logoColor=white&labelColor=282828)
-![badge-java](https://img.shields.io/badge/language-java-fe8019?style=for-the-badge&logo=java&logoColor=white&labelColor=282828) <br/>
-![badge-android](https://img.shields.io/badge/framework-android-fe8019?style=for-the-badge&logo=android&logoColor=white&labelColor=282828)
-![badge-react](https://img.shields.io/badge/framework-react-fe8019?style=for-the-badge&logo=react&logoColor=white&labelColor=282828) 
-![badge-git](https://img.shields.io/badge/framework-git-fe8019?style=for-the-badge&logo=git&logoColor=white&labelColor=282828) 
-![badge-laravel](https://img.shields.io/badge/framework-laravel-fe8019?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828) 
-![badge-django](https://img.shields.io/badge/framework-django-fe8019?style=for-the-badge&logo=django&logoColor=white&labelColor=282828) <br/>
-![badge-mysql](https://img.shields.io/badge/database-mysql-fe8019?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828) 
-![badge-firebase](https://img.shields.io/badge/database-firebase-fe8019?style=for-the-badge&logo=firebase&logoColor=white&labelColor=282828)
+![badge-shell](https://img.shields.io/badge/Language-Shell-79740e?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=282828)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-79740e?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=282828)
+![badge-python](https://img.shields.io/badge/language-python-79740e?style=for-the-badge&logo=python&logoColor=white&labelColor=282828)
+![badge-java](https://img.shields.io/badge/language-java-79740e?style=for-the-badge&logo=java&logoColor=white&labelColor=282828) <br/>
+![badge-android](https://img.shields.io/badge/framework-android-79740e?style=for-the-badge&logo=android&logoColor=white&labelColor=282828)
+![badge-react](https://img.shields.io/badge/framework-react-79740e?style=for-the-badge&logo=react&logoColor=white&labelColor=282828) 
+![badge-git](https://img.shields.io/badge/framework-git-79740e?style=for-the-badge&logo=git&logoColor=white&labelColor=282828) 
+![badge-laravel](https://img.shields.io/badge/framework-laravel-79740e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828) 
+![badge-django](https://img.shields.io/badge/framework-django-79740e?style=for-the-badge&logo=django&logoColor=white&labelColor=282828) <br/>
+![badge-mysql](https://img.shields.io/badge/database-mysql-79740e?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828) 
+![badge-firebase](https://img.shields.io/badge/database-firebase-79740e?style=for-the-badge&logo=firebase&logoColor=white&labelColor=282828)
 
 
 #### My stats
