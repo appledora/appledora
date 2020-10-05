@@ -4,7 +4,7 @@
 
 ```
 - I’m primarily working on Bioinformatics and DeepLearning.
-- I’m learning about Neural Networks and LifeScience right now.
+- I’m interested about Astrophysics, LifeScience, Literatures and Psychology. 
 - I love collaboration works, so feel free to reach out. 
 - Ask me about Popscience and Popculture. I am less disappointing in these fields.
 - Fun fact: None 
