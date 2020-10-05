@@ -21,9 +21,9 @@ I am Appledora <img src="https://64.media.tumblr.com/15e9d496bda7cf97e7fa9babc45
 ⚡ Fun fact: None 
 
 #### My stacks
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-79740e?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=282828)![badge-cpp](https://img.shields.io/badge/c%2B%2B-79740e?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=282828)![badge-python](https://img.shields.io/badge/python-79740e?style=for-the-badge&logo=python&logoColor=white&labelColor=282828)![badge-java](https://img.shields.io/badge/java-79740e?style=for-the-badge&logo=java&logoColor=white&labelColor=282828) <br/>
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-79740e?style=for-the-badge&logo=android&logoColor=white&labelColor=282828)![badge-react](https://img.shields.io/badge/react-79740e?style=for-the-badge&logo=react&logoColor=white&labelColor=282828)![badge-git](https://img.shields.io/badge/git-79740e?style=for-the-badge&logo=git&logoColor=white&labelColor=282828)![badge-laravel](https://img.shields.io/badge/laravel-79740e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828)![badge-django](https://img.shields.io/badge/django-79740e?style=for-the-badge&logo=django&logoColor=white&labelColor=282828) <br/>
-<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-79740e?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828)![badge-firebase](https://img.shields.io/badge/firebase-79740e?style=for-the-badge&logo=firebase&logoColor=white&labelColor=282828)
+<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=white&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=white&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=white&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=white&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=white&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=white&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=white&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=white&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=211e1b)
 
 
 #### My stats
@@ -45,8 +45,9 @@ Text    38 mins         ▓░░░░░░░░░░░░░░░░░�
 <br/>
 This readme was done for the sake of fun.
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
- [<img src='https://image.freepik.com/free-icon/pie-chart-outline_318-10654.jpg' alt='profile status' height='40'>](https://profile-summary-for-github.com/user/appledora) 
+#### My handles
+ [<img src="https://img.shields.io/badge/nazia_tasnim-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=79740e">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=79740e">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
+ [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/appledora) 
 ![Profile views](https://gpvc.arturio.dev/appledora) 
 
 
