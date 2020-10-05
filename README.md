@@ -1,9 +1,7 @@
 <p align="center">
- <img height="200" width="200" src="hello_there.gif"/>
+  <img height="400" width="800" src="hello.gif"/>
  </p>
 
-I am Appledora!! <br>
-I write codes, fangirl fictional characters and rant to people about my anxiety. <br>
 ```
 - I’m currently working on Bioinformatics and DeepLearning.
 - I’m currently learning Model structuring and tuning.
