@@ -2,18 +2,15 @@
  <img height="200" width="200" src="hello_there.gif"/>
  </p>
 
-I am Appledora 
-I write codes, fangirl Malazan characters, Sandman, Scott pilgrim and rant to people about my anxiety. 
-🔭 I’m currently working on Bioinformatics and DeepLearning.
-
-🌱 I’m currently learning Model structuring and tuning.
-
-👯 I’m looking to collaborate on Bioinformatics. 
-
-💬 Ask me about Popscience and Popculture. I am less disappointing in these fields.
-
-⚡ Fun fact: None 
-
+I am Appledora!! <br>
+I write codes, fangirl fictional characters and rant to people about my anxiety. <br>
+```
+- I’m currently working on Bioinformatics and DeepLearning.
+- I’m currently learning Model structuring and tuning.
+- I’m looking to collaborate on Bioinformatics. 
+- Ask me about Popscience and Popculture. I am less disappointing in these fields.
+- Fun fact: None 
+```
 ## My stacks
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=79740e&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=79740e&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=79740e&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=79740e&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=79740e&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=79740e&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=79740e&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=79740e&labelColor=211e1b) <br/>
