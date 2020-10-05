@@ -3,9 +3,9 @@
  </p>
 
 ```
-- I’m currently working on Bioinformatics and DeepLearning.
-- I’m currently learning Model structuring and tuning.
-- I’m looking to collaborate on Bioinformatics. 
+- I’m primarily working on Bioinformatics and DeepLearning.
+- I’m learning about Neural Networks and LifeScience right now.
+- I love collaboration works, so feel free to reach out. 
 - Ask me about Popscience and Popculture. I am less disappointing in these fields.
 - Fun fact: None 
 ```
