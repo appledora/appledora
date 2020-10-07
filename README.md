@@ -19,8 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   19 hrs 27 mins  ████████████████████████▒   96.82 % 
-Text    38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other   20 hrs 22 mins  █████████████████████▓░░░   87.29 % 
+Java    2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Text    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 <p align = "center">
