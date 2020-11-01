@@ -2,10 +2,10 @@
 name: Update stats
 
 on:
+  workflow_dispatch:
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
-  workflow_dispatch:
 
 jobs:
   update-readme:
