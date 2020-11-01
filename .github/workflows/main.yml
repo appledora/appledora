@@ -17,5 +17,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN}}
           USERNAME: appledora
-          SHOW_TITLE: false
+          SHOW_TITLE: True
           COMMIT_MESSAGE: wakatime update
