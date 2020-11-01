@@ -18,3 +18,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN}}
           USERNAME: appledora
           SHOW_TITLE: false
+          COMMIT_MESSAGE: wakatime update
