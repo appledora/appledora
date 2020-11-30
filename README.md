@@ -19,9 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
-Python   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Python   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.21 % 
+Other    2 mins          ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.79 % 
 ```
 <!--END_SECTION:waka-->
 <p align = "center">
