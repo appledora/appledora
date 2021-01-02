@@ -19,10 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
-Other    53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.80 % 
-Text     9 mins          ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.37 % 
+Other    53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.30 % 
+Text     24 mins         ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.03 % 
 ```
 <!--END_SECTION:waka-->
 <p align = "center">
