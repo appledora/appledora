@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img height="400" width="800" src="hello.gif"/>
  </p>
-
+-->
 ```
 - I’m primarily working on Bioinformatics and DeepLearning.
 - I’m interested about Astrophysics, LifeScience, Literatures and Psychology. 
