@@ -20,9 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2021 - 18 March, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <p align = "center">
