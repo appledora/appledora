@@ -28,7 +28,7 @@ Other    3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 <!--END_SECTION:waka-->
 <p align = "center">
-<img height="200" src="https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
+<img height="200" src="https://github-profile-trophy.vercel.app/?username=appledora&theme=dracula&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
 <p/>
 <!--- dracula base : #282a36 font : #ff79c6 -->
 <!-- <p align="left">
@@ -43,8 +43,8 @@ Other    3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 This readme was done for the sake of fun.
 
 ## My handles
- [<img src="https://img.shields.io/badge/nazia_tasnim-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=79740e">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=79740e">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
- [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/appledora) 
+ [<img src="https://img.shields.io/badge/nazia_tasnim-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
+ [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=SVG&logoColor=8a2be2">](https://profile-summary-for-github.com/user/appledora) 
 
 ![Profile views](https://gpvc.arturio.dev/appledora) 
 
