@@ -29,11 +29,15 @@ Other    3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=appledora&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
 <p/>
 <!--- dracula base : #282a36 font : #ff79c6 -->
-<p align="left">
+<!-- <p align="left">
 <img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
-</p>
+</p> -->
 <br/>
+
+![Metrics](https://metrics.lecoq.io/appledora?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large)
+
+
 This readme was done for the sake of fun.
 
 ## My handles
