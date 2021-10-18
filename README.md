@@ -57,5 +57,7 @@ This readme was done because I am bored and obsessed.
  [<img src="https://img.shields.io/badge/nazia_tasnim-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=SVG&logoColor=8a2be2">](https://profile-summary-for-github.com/user/appledora) 
 
-![Profile views](https://gpvc.arturio.dev/appledora) 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/appledora/count.svg" />
+</p>
