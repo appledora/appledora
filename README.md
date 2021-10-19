@@ -4,7 +4,7 @@
 <h3>
     
 ```python
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 
 
 @dataclass
