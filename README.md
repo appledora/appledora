@@ -9,10 +9,10 @@ from dataclasses import dataclass
 
 @dataclass
 class Introduction:
-    work: tuple[str, ...] = ("Bioinformatics", "DeepLearning", "NLP" )
-    interest: tuple[str, ...] = ("Astrophysics","LifeScience","Literature","Popculture")
-    misc     : tuple[str, ...] = ("Collaboration", "Competitions")
-    funfact  : tuple[str, ...] = None
+    work: list[str] = ["Bioinformatics", "DeepLearning", "NLP" ]
+    interest: list[str] = ["Astrophysics","LifeScience","Literature","Popculture"]
+    misc     : list[str] = ["Collaboration", "Competitions"]
+    funfact  : str = None
 
 ​
 ```
