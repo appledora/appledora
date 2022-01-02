@@ -49,8 +49,8 @@ Python   15 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p> -->
 <p align=left>
-      <img  width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=appledora&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-      <img  width=420 src="https://github-readme-stats.vercel.app/api?username=appledora&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=appledora&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=appledora&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   <br><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=appledora&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
