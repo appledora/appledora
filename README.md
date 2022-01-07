@@ -28,10 +28,10 @@ class Introduction:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-Other   4 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   92.88 % 
-Text    20 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.12 % 
+Other   8 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   93.88 % 
+Text    32 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.12 % 
 ```
 <!--END_SECTION:waka-->
 
