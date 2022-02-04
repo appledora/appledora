@@ -28,7 +28,7 @@ class Introduction:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2022 - 31 January, 2022
+Week: 28 January, 2022 - 03 February, 2022
 
 Other    7 hrs 44 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.36 % 
 XML      3 hrs 56 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.01 % 
