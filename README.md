@@ -18,13 +18,13 @@ class Introduction:
 ```
 </h3>
 
-## My stacks
+## My stacks :four_leaf_clover:
 <img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=8a2be2&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=8a2be2&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=8a2be2&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=8a2be2&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=Redis&logoColor=8a2be2">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b)
 
 
-## My stats
+## My stats  :hatched_chick:
 
 <!--START_SECTION:waka-->
 
@@ -54,12 +54,11 @@ Other    2 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀�
   <img src="https://activity-graph.herokuapp.com/graph?username=appledora&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
 
-My recent project: 
+## My recent project :blossom:
 * [mwparserfromhtml](https://gitlab.wikimedia.org/repos/research/html-dumps) : a python library to parse and process wikipedia html-dumps. 
 
-This readme was done because I am bored and obsessed. If you liked my profile, you can :star2: the repo and to use this template you can fork it and mod.
 
-## My handles
+## My handles :jack_o_lantern:
  [<img src="https://img.shields.io/badge/nazia_tasnim-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=SVG&logoColor=8a2be2">](https://profile-summary-for-github.com/user/appledora) 
 
@@ -67,3 +66,5 @@ This readme was done because I am bored and obsessed. If you liked my profile, y
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/appledora/count.svg" />
 </p>
+
+>  This readme was done because I am bored and obsessed. If you liked my profile, please :star2: the repo and to use this template you can fork it and mod :sparkles:
