@@ -48,12 +48,12 @@ Other              2 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀
 <img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p> -->
-<!--- <p align=left>
+<p align=left>
       <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=appledora&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
       <img  width=400 src="https://github-readme-stats.vercel.app/api?username=appledora&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   <br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=appledora&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
-</p> -->
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=appledora&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p> 
 
 ## My recent project :blossom:
 * [mwparserfromhtml](https://gitlab.wikimedia.org/repos/research/html-dumps) : a python library to parse and process wikipedia html-dumps. 
