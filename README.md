@@ -9,7 +9,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Introduction:
-    work: list[str] = ["Bioinformatics", "DeepLearning", "NLP" ]
+    work: list[str] = ["NLP", "CV", "XAI" ]
     interest: list[str] = ["Astrophysics","LifeScience","Literature","Popculture"]
     misc     : list[str] = ["Collaboration", "Competitions"]
     funfact  : str = None
@@ -19,9 +19,9 @@ class Introduction:
 </h3>
 
 ## My stacks :four_leaf_clover:
-<img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=8a2be2&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=shell&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=8a2be2&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=8a2be2&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=8a2be2&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=8a2be2&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=Redis&logoColor=8a2be2">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b)
+<img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=database&logoColor=8a2be2">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b)
 
 
 ## My stats  :hatched_chick:
