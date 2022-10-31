@@ -9,7 +9,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Introduction:
-    work: list[str] = ["NLP", "CV", "XAI" ]
+    work: list[str] = ["CL", "CV", "XAI" ]
     interest: list[str] = ["Astrophysics","LifeScience","Literature","Popculture"]
     misc     : list[str] = ["Collaboration", "Competitions"]
     funfact  : str = None
