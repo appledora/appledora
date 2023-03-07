@@ -25,10 +25,10 @@ class Introduction:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2023 - To: 03 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
-Python             4 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.87 %
-Other              1 hr            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.67 %
+Python     1 hr 37 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.62 %
+Other      1 hr            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.81 %
 ```
 
 <!--END_SECTION:waka-->
