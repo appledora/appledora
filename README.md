@@ -6,11 +6,11 @@
 ```python
 from dataclasses import dataclass
 @dataclass
-class Introduction:
-    work: list[str] = ["CL", "CV", "XAI" ]
+class Appledora:
+    research: list[str] = ["CL", "CV", "XAI" ]
     interest: list[str] = ["Astrophysics","LifeScience","Literature","Popculture"]
-    misc     : list[str] = ["Collaboration", "Competitions"]
-    funfact  : str = None
+    welcome: list[str] = ["Collaboration", "Competitions"]
+    funfact: str = None
 ```
 
 
