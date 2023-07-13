@@ -58,7 +58,8 @@ HTML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </p> 
 
 ## My recent project :blossom:
-* [mwparserfromhtml](https://gitlab.wikimedia.org/repos/research/html-dumps) : a python library to parse and process wikipedia html-dumps. 
+* [mwtokenizer](https://pypi.org/project/mwtokenizer/) : a language-agnostic sentence-word tokenizer.
+* [mwparserfromhtml]([https://gitlab.wikimedia.org/repos/research/html-dumps](https://pypi.org/project/mwparserfromhtml/)) : a python library to parse and process wikipedia html-dumps. 
 
 
 ## My handles :jack_o_lantern:
