@@ -57,14 +57,14 @@ HTML         23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=appledora&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p> 
 
-## My recent project :blossom:
+## My recent projects :blossom:
 * [mwtokenizer](https://pypi.org/project/mwtokenizer/) : a language-agnostic sentence-word tokenizer.
 * [mwparserfromhtml](https://pypi.org/project/mwparserfromhtml/) : a python library to parse and process wikipedia html-dumps. 
 
 
 ## My handles :jack_o_lantern:
- [<img src="https://img.shields.io/badge/nazia_tasnim-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
- [<img src="https://img.shields.io/badge/appledora-211e1b?style=for-the-badge&logo=SVG&logoColor=8a2be2">](https://profile-summary-for-github.com/user/appledora) 
+ [<img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/StackOverflow-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
+ [<img src="https://img.shields.io/badge/🤗huggingface-211e1b?style=for-the-badge&logo=huggingface&logoColor=8a2be2">](https://huggingface.co/appledora)
 
 <p align="center"> 
   Visitors count<br>
