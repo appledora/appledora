@@ -63,8 +63,8 @@ Python   47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
  [<img src="https://img.shields.io/badge/🤗huggingface-211e1b?style=for-the-badge&logo=huggingface&logoColor=8a2be2">](https://huggingface.co/appledora)
 
 <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/appledora/count.svg" />
-</p>
+<!--   Visitors count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/appledora/count.svg" /> -->
+<!-- </p> -->
 
 >  This readme was done because I am bored and obsessed. If you liked my profile, please :star2: the repo and to use this template you can fork it and mod :sparkles:
