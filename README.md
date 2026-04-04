@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=appledora&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-
 [![Website](https://img.shields.io/badge/🌐_appledora.github.io-8a2be2?style=for-the-badge)](https://appledora.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=linkedin&logoColor=8a2be2)](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-211e1b?style=for-the-badge&logo=google-scholar&logoColor=8a2be2)](https://scholar.google.com)
@@ -16,9 +14,7 @@
 ## 👾 `whoami`
 
 ```python
-from neural_nets import Researcher
-
-class Appledora(Researcher):
+class Appledora:
     def __init__(self):
         self.status = "PhD @ Boston University 🦅"
         self.lab = "IVC-ML Group"
@@ -116,8 +112,5 @@ class Appledora(Researcher):
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
-</div>
 
 <sub>✨ made with caffeine and pytorch | feel free to fork this </sub>
